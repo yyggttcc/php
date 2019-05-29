@@ -472,5 +472,5 @@
 }
 
 
-echo  readBook::main()->init()->convert()->output('header'); exit;
+echo  readBook::main()->init()->convert()->output('result'); exit;
 
