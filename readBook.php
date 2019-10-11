@@ -1,8 +1,8 @@
 <?php
 	
-	//微信读书机器人
+	//微信读书app爬虫
 
-	//githut : http://github.com/yygggttcc
+	//github : http://github.com/yyggttcc
 	
 	date_default_timezone_set('PRC'); 
 
